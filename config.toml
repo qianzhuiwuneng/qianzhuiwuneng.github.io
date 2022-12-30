@@ -196,7 +196,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     l-tumblr = "http://localhost:1313"
     m-instagram = "http://localhost:1313"
     n-gitlab = "http://localhost:1313"
-    o-bilibili = "http://localhost:1313"
+    o-bilibili = "https://space.bilibili.com/2246895?spm_id_from=333.999.0.0"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]
